@@ -1,1 +1,5 @@
-non-empty readme
+- non-empty readme
+- create a new branch
+- make changes in branch
+- make changes in main
+- update readme
